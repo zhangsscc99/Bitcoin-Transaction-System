@@ -1,0 +1,9 @@
+*.xml
+*.log
+*.apk
+*.txt
+# *.db
+# *.dat
+/.idea
+*.sh
+/demo
